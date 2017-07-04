@@ -1,0 +1,8 @@
+<resources>
+    <dimen name="padding_quarter">4dp</dimen>
+    <dimen name="padding_half">8dp</dimen>
+    <dimen name="padding">16dp</dimen>
+    <dimen name="padding_2x">32dp</dimen>
+    <dimen name="padding_3x">48sp</dimen>
+    <dimen name="text_size_title_detail">48sp</dimen>
+</resources>
